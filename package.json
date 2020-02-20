@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/maximumdata/that-shits-biscotti.git"
   },
-  "author": "Mike Dettmer <mike.dettmer@gstv.com> (http://www.gstv.com)",
-  "license": "ISC",
+  "author": "Mike Dettmer <mike@mikedettmer.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/maximumdata/that-shits-biscotti/issues"
   },
